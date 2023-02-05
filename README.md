@@ -13,5 +13,6 @@ visually depicts the data collected on Bird Strikes by FAA between 2000-2011.
 
 Video Link:- https://drive.google.com/drive/folders/1tq2pgroRak5v2SUA4c1P4jnkQ6_5BZo1?usp=share_link
 
-![Data Visualization of Bird Strikes between 2000 – 2011 in US]()
+![Data Visualization of Bird Strikes between 2000 – 2011 in US](https://github.com/Bunnydavid27/Bird-Strikes---Data-Visualization/blob/main/Worksheets/Birds%20Strikes%20Dashboard.png)
+
  Tableau Dashbord - https://public.tableau.com/app/profile/raja.prabhu.david.akula/viz/Ineuron_project/BirdsStrikesDashboard?publish=yes
